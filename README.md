@@ -9,6 +9,10 @@ Please email me at hi@omerxx.com 🙏
 
 ## Install 💻
 
+CS: 21 Oct 2024 23:37 
+Change C-M-* keys to C-S-* , as I failed to figure out why Meta keys do not work on macOS
+
+
 Tmux version 3.3 or newer is required to use this plugin.
 
 Add this to your `.tmux.conf` and run `Ctrl-I` for TPM to install the plugin.
