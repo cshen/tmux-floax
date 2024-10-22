@@ -1,16 +1,16 @@
 FloaX - Floating panes in Tmux!
 ============
 
-🛑 Looking for help!
-Floax needs your help, looking for assistance maintaining this repo, issues and pull requests.
-Please email me at hi@omerxx.com 🙏
+CS: 21 Oct 2024 23:37. 
+I failed to figure out why Meta keys do not work on macOS
+Thus I disabled the shortcut keys
+
+
 
 ![image](./img/floaxv3.png)
 
 ## Install 💻
 
-CS: 21 Oct 2024 23:37 
-Change C-M-* keys to C-S-* , as I failed to figure out why Meta keys do not work on macOS
 
 
 Tmux version 3.3 or newer is required to use this plugin.
